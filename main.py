@@ -902,7 +902,7 @@ def main(page: ft.Page):
                     ft.Container(height=16),
                     glow_card(ft.Column([
                         ft.Row([ft.Icon(ft.Icons.EMAIL, color=CYAN, size=18),
-                                ft.Text("martin@example.com", color=TEXT, size=14)], spacing=12),
+                                ft.Text("martinkapenda12@gmail.com", color=TEXT, size=14)], spacing=12),
                         ft.Row([ft.Icon(ft.Icons.LOCATION_ON, color=GREEN, size=18),
                                 ft.Text("Windhoek, Namibia", color=TEXT, size=14)], spacing=12),
                         ft.Row([ft.Icon(ft.Icons.SCHOOL, color=MAGENTA, size=18),
