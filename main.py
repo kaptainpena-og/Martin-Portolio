@@ -21,7 +21,7 @@ TEXT_DIM = "#5c6b8a"
 
 
 def main(page: ft.Page):
-    page.title = "Martin K. | Civil Engineer Portfolio"
+    page.title = "Martin Kapenda | Civil Engineer Portfolio"
     page.theme_mode = ft.ThemeMode.DARK
     page.bgcolor = BG
     page.scroll = ft.ScrollMode.AUTO
